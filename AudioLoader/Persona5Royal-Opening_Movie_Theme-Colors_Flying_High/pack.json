@@ -1,0 +1,9 @@
+{
+  "name": "01. Colors Flying High -opening movie version-",
+  "description": "The song Colors Flying High from Persona 5 Royals's opening movie by Lyn.",
+  "author": "nicballarini",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": []
+}

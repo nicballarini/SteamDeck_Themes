@@ -1,0 +1,9 @@
+{
+  "name": "1-01. Wake Up, Get Up, Get Out There",
+  "description": "The song Wake Up, Get Up, Get Out There from Persona 5's opening movie by Lyn.",
+  "author": "nicballarini",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": []
+}

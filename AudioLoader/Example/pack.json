@@ -1,0 +1,9 @@
+{
+  "name": "<song name>",
+  "description": "The song <song name> from <source> by <artist>.",
+  "author": "<author>",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": []
+}

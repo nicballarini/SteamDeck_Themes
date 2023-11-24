@@ -1,0 +1,9 @@
+{
+  "name": "02. Royal Days",
+  "description": "The song Royal Days from Persona 5 Royals's title by ATLUS Sound Team.",
+  "author": "nicballarini",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": []
+}

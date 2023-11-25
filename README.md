@@ -1,16 +1,23 @@
  ## Description
 
-A collection of theme addons for steam deck.
+A collection of theme-related addons for steam deck.
 
-The AudioLoader Decky plugin is required (https://github.com/EMERALD0874/SDH-AudioLoader)
+# prereqs
+
+* Decky Loader - https://github.com/SteamDeckHomebrew/decky-loader
+* AudioLoader (Decky Loader Plugin) - https://github.com/EMERALD0874/SDH-AudioLoader)
 
 # important directories
 
-Menu music and sound packs go here: /home/deck/homebrew/sounds
-Startup movies: /home/.steam/root/config/uioverrides/movies
-    - note: may need to create `uioverrides` & `movies` dirs
-    for the lazy:
-    - mkdir -p /home/.steam/root/config/uioverrides/movies
+- Menu music and sound packs go here: `/home/deck/homebrew/sounds`
+
+- Startup movies: `/home/.steam/root/config/uioverrides/movies`
+
+  **note: may need to create `uioverrides` & `movies` dirs**
+
+for the lazy:
+
+    mkdir -p /home/.steam/root/config/uioverrides/movies
 
 # How it works.
 

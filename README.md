@@ -7,6 +7,10 @@ The AudioLoader Decky plugin is required (https://github.com/EMERALD0874/SDH-Aud
 # important directories
 
 Menu music and sound packs go here: /home/deck/homebrew/sounds
+Startup movies: /home/.steam/root/config/uioverrides/movies
+    - note: may need to create `uioverrides` & `movies` dirs
+    for the lazy:
+    - mkdir -p /home/.steam/root/config/uioverrides/movies
 
 # How it works.
 
